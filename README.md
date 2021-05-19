@@ -1,1 +1,3 @@
-# BletsE-Help-Website
+# BletsE Help Website
+
+Why are you even here?
