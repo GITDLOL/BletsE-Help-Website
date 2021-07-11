@@ -1,0 +1,29 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 150px;
+    margin-left: 35%;
+    margin-top: 200px;
+}
+
+ul {
+    margin-right: 100px;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-right: 60px;
+}
+
+ul li a {
+    text-decoration: none;
+    border: 1px solid transparent;
+    color: black;
+    background-color: lime;
+    padding: 5px 20px;
+}
