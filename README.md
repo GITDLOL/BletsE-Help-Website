@@ -1,3 +1,3 @@
 # BletsE Help Website
 
-Why are you even here?
+Everything is literally inside the index.html file. Stop reading this.
